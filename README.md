@@ -1,5 +1,5 @@
-- 👋 Hey, you! I am Ibra, a second year master student in computational data science at The Free Univeristy of Bozen-Bolzano, Italy. I have spent the past six months in Finland at the University of Helsinki as an Eramsus student. 
-- 🌱 I’m currently working on my master's thesis with The LEGO Group.
+- 👋 Hey, you! I am Ibra. I am a graduate computational data scientist. I have spent the past year between Italy and Finland where I have attende a semester has an exchange student.  
+- 🌱 I wrote my master's thesis in collaboration with The LEGO Group. The goal has been to develop a NLP pipeline to automate the mining, the sentiment analysis and product extraction on forums.
 - 👀 I’m interested in NLP, recommender systems, and data visualization.
 - 📫 You can reach me on LinkedIn.
 <!---
