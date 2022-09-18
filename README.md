@@ -1,4 +1,4 @@
-- 👋 Hey, you! I am Ibra. I am a graduate computational data scientist. I have spent the past year between Italy and Finland where I have attended a semester as an exchange student.  
+- 👋 Hey, you! I am Ibra. I am a Ph.D. candidate at University of Zurich. I have spent the past years between Italy and Finland where I have attended a semester as an exchange student.  
 - 🌱 I wrote my master's thesis in collaboration with The LEGO Group. The goal has been to develop a NLP pipeline to automate the mining, the sentiment analysis and product extraction on forums.
 - 👀 I’m interested in NLP, recommender systems, and data visualization.
 - 📫 You can reach me on LinkedIn.
